@@ -1,0 +1,16 @@
+@media (max-width: 480px) { 
+    .slides{
+        display: initial;
+    }
+    .slide{
+        width: 100%!important;
+        margin-bottom: 15px;
+        height: auto;
+        border-radius: 10px;
+    }
+    .slide-content{
+        width: 100%!important;
+        padding: 25px;
+        font-size: 95%;
+    }
+}
